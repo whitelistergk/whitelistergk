@@ -1,9 +1,9 @@
-
 <?php
-$whitelist = array(
-    "mojang",
-    "ElFo2K"
+return array(
+    "whitelist" => array(
+        "ElFo2K",
+        "SoyFire",
+        "ImClassicMc",
+        "ItsNavii"
+    )
 );
-header('Content-Type: application/json');
-echo json_encode($whitelist);
-?>
