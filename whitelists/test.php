@@ -1,9 +1,9 @@
-
-<?php
-return array(
-    "whitelist" => array(
-        "",
-        "ElFo2K"
-    ),
-);
-?>
+{
+    "whitelist": [
+        "ElFo2K",
+        "SoyFire",
+        "ImClassicMc",
+        "ItsNavii",
+        "Soru_San"
+    ]
+}
